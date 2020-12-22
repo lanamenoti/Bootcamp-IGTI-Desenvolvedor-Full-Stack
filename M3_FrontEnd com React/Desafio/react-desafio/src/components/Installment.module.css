@@ -1,0 +1,24 @@
+.card {
+  padding: 10px;
+  align-items: center;
+  border: 2px solid lightgrey;
+  border-radius: 20px;
+  margin-top: 10px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.period {
+  margin-right: 20px;
+  font-weight: 700;
+}

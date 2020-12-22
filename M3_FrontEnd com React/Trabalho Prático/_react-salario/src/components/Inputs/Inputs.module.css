@@ -1,0 +1,36 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  text-align: center;
+}
+
+.baseInput {
+  font-weight: 700;
+  color: black;
+  max-width: 300px;
+}
+
+.discountINSS {
+  font-weight: 700;
+  color: #e67e22;
+  max-width: 300px;
+}
+
+.discountIRPF {
+  font-weight: 700;
+  color: #c0392b;
+  max-width: 300px;
+}
+
+.netSalary {
+  font-weight: 700;
+  color: #16a085;
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+}
