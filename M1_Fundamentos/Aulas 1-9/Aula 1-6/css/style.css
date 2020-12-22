@@ -1,0 +1,32 @@
+body {
+  padding: 10px;
+}
+h1 {
+  text-align: center; /*Deixa o texto centralizado */
+  font-size: 2rem; /* rem faz o tamanho da fonte ficar mais relativo (bom pra abrir em celulares) */
+  font-weight: bold;
+  color: blueviolet;
+}
+.dados-pessoais {
+  margin: 10px;
+  display: flex; /* Para deixar os elementos da página lado a lado */
+  flex-direction: row; /* Faz os elemento ficarem na mesma linha */
+  /* Flex flexiona os elementos (ocupa o espaço disponível) */
+  align-items: center; /* Vai alinhar o centro de ambos os elementos */
+}
+#dados {
+  margin-left: 30px;
+  list-style-type: disc; /* Bota os pontinhos na lista*/
+}
+table,
+th,
+td,
+tr {
+  padding: 5px;
+  border: 1px solid gray;
+  margin-bottom: 30px; /* Afasta do que está em baixo */
+  margin-top: 30px; /* Afasta do que está no topo */
+}
+th {
+  background-color: #ddd;
+}

@@ -1,0 +1,77 @@
+h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+.option {
+  margin-right: 30px;
+}
+
+.flag {
+  width: 60px;
+  height: 30px;
+}
+.people-list {
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+#numbers {
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.results {
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  justify-content: flex-start;
+}
+
+.data {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+#filterOptions {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.language {
+  font-size: 0.8rem;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.edit-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+}
