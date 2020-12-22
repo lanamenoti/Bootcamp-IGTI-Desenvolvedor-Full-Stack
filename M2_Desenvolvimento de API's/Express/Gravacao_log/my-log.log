@@ -1,0 +1,6 @@
+2020-10-09T20:35:45.958Z [my-app] error: Error log
+2020-10-09T20:35:45.961Z [my-app] warn: Warn log
+2020-10-09T20:35:45.962Z [my-app] info: Info log
+2020-10-09T20:35:45.963Z [my-app] verbose: Verbose log
+2020-10-09T20:35:45.965Z [my-app] debug: Debug log
+2020-10-09T20:35:45.965Z [my-app] silly: Silly log

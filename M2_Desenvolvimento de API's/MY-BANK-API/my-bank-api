@@ -1,0 +1,43 @@
+2020-10-13T20:13:13.752Z [my-bank-api] info: API Started
+2020-10-13T20:13:52.749Z [my-bank-api] info: API Started
+2020-10-13T20:16:50.996Z [my-bank-api] info: API Started
+2020-10-13T20:18:41.082Z [my-bank-api] info: API Started
+2020-10-13T20:22:18.216Z [my-bank-api] info: API Started
+2020-10-13T20:23:10.173Z [my-bank-api] info: API Started
+2020-10-13T20:24:56.774Z [my-bank-api] info: API Started
+2020-10-13T20:25:58.764Z [my-bank-api] info: API Started
+2020-10-13T20:27:11.197Z [my-bank-api] info: API Started
+2020-10-13T20:27:50.379Z [my-bank-api] info: GET /account
+2020-10-13T20:28:02.728Z [my-bank-api] info: PUT /account - {"id":4,"name":"Maria Menoti","balance":265.5}
+2020-10-13T20:28:03.692Z [my-bank-api] info: API Started
+2020-10-13T20:28:06.729Z [my-bank-api] info: GET /account
+2020-10-13T20:28:24.000Z [my-bank-api] info: PATCH /account/updateBalance - {"id":3,"balance":855}
+2020-10-13T20:28:25.168Z [my-bank-api] info: API Started
+2020-10-13T20:28:27.639Z [my-bank-api] info: GET /account
+2020-10-13T20:28:41.000Z [my-bank-api] info: DELETE /account/:id - 1
+2020-10-13T20:28:41.928Z [my-bank-api] info: API Started
+2020-10-13T20:43:35.423Z [my-bank-api] info: API Started
+2020-10-13T20:44:41.422Z [my-bank-api] info: API Started
+2020-10-13T20:45:26.916Z [my-bank-api] info: POST /account - {"id":5,"name":"Maria Silva","balance":2568.5}
+2020-10-13T20:45:27.891Z [my-bank-api] info: API Started
+2020-10-13T20:47:05.436Z [my-bank-api] info: API Started
+2020-10-13T20:48:19.898Z [my-bank-api] info: API Started
+2020-10-13T20:48:43.548Z [my-bank-api] error: PUT /account - Registro não encontrado
+2020-10-13T20:49:01.444Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios
+2020-10-13T20:49:43.721Z [my-bank-api] info: API Started
+2020-10-13T20:50:16.830Z [my-bank-api] info: API Started
+2020-10-13T20:51:23.838Z [my-bank-api] info: API Started
+2020-10-13T20:51:32.415Z [my-bank-api] error: PUT /account - Name e Balance são obrigatórios
+2020-10-13T20:52:29.767Z [my-bank-api] info: API Started
+2020-10-13T20:53:08.041Z [my-bank-api] info: PUT /account - {"id":4,"name":"Maria Menoti","balance":566}
+2020-10-13T20:53:08.982Z [my-bank-api] info: API Started
+2020-10-13T20:53:23.007Z [my-bank-api] info: PUT /account - {"id":4,"name":"Maria Menoti","balance":566,"iuhsiusdhuid":"dhsadashidaush"}
+2020-10-13T20:53:23.934Z [my-bank-api] info: API Started
+2020-10-13T20:54:20.445Z [my-bank-api] info: PUT /account - {"id":4,"name":"Maria Menoti","balance":566}
+2020-10-13T20:54:21.583Z [my-bank-api] info: API Started
+2020-10-13T20:54:25.293Z [my-bank-api] info: GET /account
+2020-10-13T20:54:35.468Z [my-bank-api] info: GET /account
+2020-10-13T20:56:45.513Z [my-bank-api] info: API Started
+2020-10-13T21:08:40.628Z [my-bank-api] info: API Started
+2020-10-13T21:09:31.960Z [my-bank-api] info: API Started
+2020-10-13T21:36:21.982Z [my-bank-api] info: API Started
